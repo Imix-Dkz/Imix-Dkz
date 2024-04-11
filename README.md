@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Imix-Dkz
+# 👋 Hi, I’m Imix ICM, aka @Darketzer
 - 👀 I’m interested in learning new DEV lenguages and techniques
 - 🌱 I’m currently learning Java 11/17, VUE.js, Bootstrap, React.js
 - 💞️ I’m looking to collaborate on learning courses or new work proyects
