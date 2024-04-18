@@ -15,7 +15,7 @@
 * Content magagement, social media
 
 ## Hard Skill:
-* PHP, Laravel, Jetstream
+* PHP, Laravel, Jetstream, Tailwind
 * Html & CSS
 * Javascript
 * Database, MySQL/MariaDB,
