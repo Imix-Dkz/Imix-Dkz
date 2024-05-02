@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Imix ICM, aka @Darketzer
 - 👀 I’m interested in learning new DEV lenguages and techniques
-- 🌱 I’m currently learning Java 11/17, VUE.js, Bootstrap, React.js
+- 🌱 I’m currently learning Spring for Java, VUE.js and MongoDB for Python
 - 💞️ I’m looking to collaborate on learning courses or new work proyects
 - 📫 How to reach me...
   * Casual, vía Twitter pls: https://twitter.com/Darketzer
-- ⚡ Fun fact: Love Games, mainly Nintendo, buen any other older or classic it's ok...
+- ⚡ Fun fact: Love Games, mainly Nintendo, and many other older or classic it's ok...
 
 ## Soft Skills:
 * Management and integration of teamwork
