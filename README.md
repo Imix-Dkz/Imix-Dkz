@@ -16,8 +16,8 @@
 
 ## Hard Skill:
 * PHP, Laravel, Jetstream, Tailwind
-* Html & CSS
-* Javascript
+* Html, Javascript
+* CSS, Bootstrap, TailwindCSS
 * Database, MySQL/MariaDB,
 * PostgreSQL( Triggers and maintenance/recovery)
 * C#/C++
@@ -25,11 +25,13 @@
 * Custom Linux Kernel compilation using plugins and patches
 * GIT and Subversión
 * Java 8, 11, 17
+* Python
  
 ## Additional:
 * Photoshop/Gimp
 * Ilustrator/Inkscape
 * General knowledge with video editing tools
+* Markdawn Redaction
 * Extensive time and experience in the gas sector and volumetric control, as well as the regulations that apply to them
 
 ## Languages:
